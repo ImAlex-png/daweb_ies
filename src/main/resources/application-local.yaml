@@ -1,8 +1,11 @@
+server:
+  port: 8081
+
 spring:
   datasource:
     url: jdbc:postgresql://localhost:5432/instituto
-    username: postgres
-    password: root
+    username: admin
+    password: secreta
     driver-class-name: org.postgresql.Driver
 
   jpa:
