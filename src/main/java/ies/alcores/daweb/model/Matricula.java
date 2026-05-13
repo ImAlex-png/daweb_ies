@@ -18,7 +18,7 @@ public class Matricula {
 
     @Id
     @Column(name = "id_mat")
-    private long id;
+    private long idMat;
     private int curso;
     private double notaMedia;
 
