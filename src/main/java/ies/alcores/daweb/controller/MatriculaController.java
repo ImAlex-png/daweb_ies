@@ -14,7 +14,7 @@ import java.util.List;
 
 @RestController
 @RequestMapping("/matricula")
-@CrossOrigin(origins = "http://localhost:4200") 
+@CrossOrigin(origins = "*") 
 public class MatriculaController {
 
     @Autowired
