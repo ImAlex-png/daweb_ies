@@ -1,8 +1,8 @@
 spring:
   datasource:
-    url: jdbc:postgresql://dpg-d7sd2i3bc2fs73ec1lvg-a.ohio-postgres.render.com:5432/instituto_6cqe
-    username: instituto_6cqe_user
-    password: T7AWFYUV5Dt2svRZ2VbvuPuG1mkg5MDG
+    url: jdbc:postgresql://dpg-d80p78d7vvec73edpgcg-a.frankfurt-postgres.render.com/instituto_31x1
+    username: instituto_31x1_user
+    password: ibwE1InruCHW3PlF6QVsATeTWUqWe1yt
     driver-class-name: org.postgresql.Driver
 
   jpa:
